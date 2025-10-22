@@ -4,4 +4,4 @@
 Author: Ashwani-kumar
 https://github.com/codewithash08/spotify-html-css/blob/a0e1031fc2fc791befedb7bd3b57e7f98f97cbc5/Screenshot%202025-10-22%20205931.png
 
-![image alt]([image_url](https://github.com/codewithash08/spotify-html-css/blob/a0e1031fc2fc791befedb7bd3b57e7f98f97cbc5/Screenshot%202025-10-22%20205931.png)
+![image](https://github.com/codewithash08/spotify-html-css/blob/a0e1031fc2fc791befedb7bd3b57e7f98f97cbc5/Screenshot%202025-10-22%20205931.png)
